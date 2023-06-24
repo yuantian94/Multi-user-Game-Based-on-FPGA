@@ -16,8 +16,9 @@ a.	Game Set Up
 9.	Player can observe the game time on the display.
 10.	Player presses a button to start the game.
 
-
 b.	Game Play
+
+
 11.	Player presses the button to use the Random Number Generator to generate a 4-bit number.
 12.	Player load up the random 4-bit number to the system.
 13.	Player can observe the random 4-bit number in the display.
@@ -32,4 +33,3 @@ b.	Game Play
 22.	Player can press the button twice within one second to restart the game.
 23.	Player can press the button three times within two second to log out the game.
 24.	Player can press the button to reset the entire system.
-
