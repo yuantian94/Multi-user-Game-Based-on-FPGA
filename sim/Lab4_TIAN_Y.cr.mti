@@ -1,0 +1,113 @@
+C:/Users/Computer/Desktop/src2/RNG.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/src2/RNG.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module rng
+
+Top level modules:
+	rng
+
+} {} {}} C:/Users/Computer/Desktop/src2/ButtonShaper.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/src2/ButtonShaper.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ButtonShaper
+
+Top level modules:
+	ButtonShaper
+
+} {} {}} C:/Users/Computer/Desktop/src2/adder.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/src2/adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} C:/Users/Computer/Desktop/src2/cdtimer.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/src2/cdtimer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cdtimer
+
+Top level modules:
+	cdtimer
+
+} {} {}} C:/Users/Computer/Desktop/src2/decoder_4to7.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/src2/decoder_4to7.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module decoder_4to7
+
+Top level modules:
+	decoder_4to7
+
+} {} {}} C:/Users/Computer/Desktop/src2/OneSecTimer.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/src2/OneSecTimer.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module OneSecTimer
+
+Top level modules:
+	OneSecTimer
+
+} {} {}} C:/Users/Computer/Desktop/src2/LoadReg.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/src2/LoadReg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module LoadReg
+
+Top level modules:
+	LoadReg
+
+} {} {}} C:/Users/Computer/Desktop/src2/AccessCtrl.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/src2/AccessCtrl.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module AccessCtrl
+
+Top level modules:
+	AccessCtrl
+
+} {} {}} C:/Users/Computer/Desktop/src2/cdmod.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/src2/cdmod.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cdmod
+
+Top level modules:
+	cdmod
+
+} {} {}} C:/Users/Computer/Desktop/src2/Counter.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/src2/Counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} C:/Users/Computer/Desktop/src2/sim_Timer1ms.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/src2/sim_Timer1ms.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Timer1ms
+
+Top level modules:
+	Timer1ms
+
+} {} {}} C:/Users/Computer/Desktop/src2/f_veri_mod.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/src2/f_veri_mod.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module f_veri_mod
+
+Top level modules:
+	f_veri_mod
+
+} {} {}} C:/Users/Computer/Desktop/src2/decoder_4to7_10.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/src2/decoder_4to7_10.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module decoder_4to7_10
+
+Top level modules:
+	decoder_4to7_10
+
+} {} {}} C:/Users/Computer/Desktop/src2/sim_CountTo100.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/src2/sim_CountTo100.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module CountTo100
+
+Top level modules:
+	CountTo100
+
+} {} {}} C:/Users/Computer/Desktop/src2/sim_CountTo10.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/src2/sim_CountTo10.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module CountTo10
+
+Top level modules:
+	CountTo10
+
+} {} {}} C:/Users/Computer/Desktop/src2/Lab3_TIAN_Y.v {1 {vlog -work work -stats=none C:/Users/Computer/Desktop/src2/Lab3_TIAN_Y.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Lab3_TIAN_Y
+
+Top level modules:
+	Lab3_TIAN_Y
+
+} {} {}}
